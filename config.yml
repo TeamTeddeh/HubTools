@@ -1,0 +1,27 @@
+##########################
+# HubTools Configuration #
+##########################
+
+#  Commands Enabled  #
+# Must Be Either true Or false #
+
+enableBuffs: true
+enableStun: false
+enableGM: true
+enableGMA: true
+enableGMS: false
+enableGMC: true
+enableFly: true
+
+# Features Enabled #
+# Must Be true or false #
+# clearInventoryOnJoin MUST be enabled for backToHubItem #
+clearInventoryOnJoin: true
+backToHubItem: true
+quickWarpItem: true
+
+# Things For Back To Hub Item #
+hubWorld: world
+hubX: 0.5
+hubY: 65
+hubZ: 0.5

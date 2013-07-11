@@ -1,0 +1,26 @@
+name: HubTools
+main: me.TeddyTheTeddy.hubtools.HubTools
+version: 2.0.0.2
+description: A plugin to add tools on to lobby servers, with different effects - Beta Recode V2.0.0.0
+author: TeddyTheTeddy
+
+commands:
+  HubTools:
+    description: Help about HubTools - WIP
+  buffs:
+    description: Gives Everyone Buffs
+  stun:
+    description: Stuns The Selected Player
+  unstun:
+    description: Un-stuns The Selected Player - WIP
+  gm:
+    description: Toggles Gamemode
+  gma:
+    description: Toggles Gamemode To Adventure
+  gms:
+    description: Toggles Gamemode To Survival
+  gmc:
+    description: Toggles Gamemode To Creative
+  fly:
+    description: Toggles Your Fly State
+  test:
